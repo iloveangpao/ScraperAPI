@@ -10,6 +10,7 @@ python = "^3.10"
 fastapi = "^0.92.0"
 uvicorn = "^0.20.0"
 requests-html = "^0.10.0"
+cssselect = "^1.2.0"
 
 
 [build-system]

@@ -34,18 +34,6 @@ files = [
 ]
 
 [[package]]
-name = "beautifulsoup"
-version = "3.2.2"
-description = "Screen-scraping library"
-category = "main"
-optional = false
-python-versions = "*"
-files = [
-    {file = "BeautifulSoup-3.2.2-py2-none-any.whl", hash = "sha256:d31413d71f6ca027ff6b06c891b62ee8ff48267ccd969f881d810e5d1fe49565"},
-    {file = "BeautifulSoup-3.2.2.tar.gz", hash = "sha256:a04169602bff6e3138b1259dbbf491f5a27f9499dea9a8fbafd48843f9d89970"},
-]
-
-[[package]]
 name = "beautifulsoup4"
 version = "4.11.2"
 description = "Screen-scraping library"
@@ -778,4 +766,4 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "e0b77ae88920dc5c60584637d21bf5a52f24400adaae4d5c562403067aad460e"
+content-hash = "400745bd7fda9cb6726911f903bf24325d9471c43220a438f4d75765bd015fd7"
